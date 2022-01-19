@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://programacioncetis104.milaulas.com/pluginfile.php/25/course/overviewfiles/89120b62-a53c-491d-a359-839b2f39971b.png" width="300px"> </img> 
+    <img src="https://www.grapheverywhere.com/wp-content/uploads/2019/07/HEAD-Top-data-visualization-tools-for-small-business-1080x655.png" width="300px"> </img> 
     
 <!-- Encabezado -->
 ## IS-310 | Algoritmos & Estructuras de Datos
